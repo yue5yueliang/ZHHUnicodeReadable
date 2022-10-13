@@ -1,0 +1,2 @@
+# ZHHUnicodeReadable
+解决Xcode控制台对于Unicode编码不能正常显示中文的问题，只需要将文件导入工程，不需要引用，即可正常志显示Unicode编码的中文数据
