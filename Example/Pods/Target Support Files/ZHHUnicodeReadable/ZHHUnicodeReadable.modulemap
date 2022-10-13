@@ -1,0 +1,6 @@
+framework module ZHHUnicodeReadable {
+  umbrella header "ZHHUnicodeReadable-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ZHHUnicodeReadable (0.1.0)
+
+DEPENDENCIES:
+  - ZHHUnicodeReadable (from `../`)
+
+EXTERNAL SOURCES:
+  ZHHUnicodeReadable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHHUnicodeReadable: efb656f8b2b83b00bf4afaf16a498591ebbe4133
+
+PODFILE CHECKSUM: 57b7f15997f6ab61c37ba4470946c13ec152ab37
+
+COCOAPODS: 1.11.2
